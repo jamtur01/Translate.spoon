@@ -11,8 +11,8 @@ obj.homepage = "https://github.com/jamtur01/Translate.spoon"
 -- Default settings
 obj.APIKEY = ""
 obj.apiProvider = "google"
-obj.source = "en"
-obj.target = "es"
+obj.source = "es"
+obj.target = "en"
 obj.history = {}
 obj.maxHistorySize = 50
 
